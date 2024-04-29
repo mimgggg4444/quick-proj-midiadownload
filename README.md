@@ -1,6 +1,6 @@
 # quick-proj-midiadownload
 
-devtools -> console -> enter the command
+web browser -> devtools -> console -> enter the command
 
 
 ``` log
