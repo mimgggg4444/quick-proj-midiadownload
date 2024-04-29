@@ -1,6 +1,6 @@
 # quick-proj-midiadownload
 
-web browser -> devtools -> console -> enter the command
+web browser -> devtools -> console -> enter the allow pasting -> enter the command
 
 
 ``` log
